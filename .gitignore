@@ -1,3 +1,6 @@
+# Arquivos específicos do IntelliJ IDEA
+.idea/
+
 # Compiled class file
 *.class
 
